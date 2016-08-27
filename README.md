@@ -4,6 +4,6 @@ Here are the source files used to test algorithms and generate example animation
 * [Numeric Springing Examples](http://allenchou.net/2015/04/game-math-numeric-springing-examples/)
 * [More on Numeric Springing](http://allenchou.net/2015/04/game-math-more-on-numeric-springing/)
 
-*Ming-Lun "Allen" Chou*
-[AllenChou.net](http://AllenChou.net)
-[@TheAllenChou](http://twitter.com/TheAllenChou)
+*Ming-Lun "Allen" Chou*  
+[AllenChou.net](http://AllenChou.net)  
+[@TheAllenChou](http://twitter.com/TheAllenChou)  
