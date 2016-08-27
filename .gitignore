@@ -1,9 +1,16 @@
 # Build Folders
 [Oo]bj/
 [Bb]in/
+[Ll]ibrary/
+[Tt]emp/
+[Ee]xportedObj/
 
 # Binaries
 *.swf
-*.air
-*.ipa
-*.apk
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.svd
