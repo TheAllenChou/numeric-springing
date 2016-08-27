@@ -5,8 +5,8 @@ Here are the source files used to test algorithms and generate example animation
 * [Numeric Springing Examples](http://allenchou.net/2015/04/game-math-numeric-springing-examples/)
 * [More on Numeric Springing](http://allenchou.net/2015/04/game-math-more-on-numeric-springing/)
 
-![box-springs](http://allenchou.net/wp-content/uploads/2015/04/spring.gif) ![button-spring](http://allenchou.net/wp-content/uploads/2015/04/button-spring.gif)  
-![angular-spring](http://allenchou.net/wp-content/uploads/2015/04/angular-spring.gif) ![animation-spring](http://allenchou.net/wp-content/uploads/2015/04/animation-spring.gif) ![quaternion-spring](http://allenchou.net/wp-content/uploads/2015/04/cube-spring.gif)  
+![box-springs](/img/box-springs.gif) ![button-spring](/img/button-spring.gif)  
+![angular-spring](/img/angular-spring.gif) ![animation-spring](/img/animation-spring.gif) ![rotation-spring](/img/rotation-spring.gif)  
 
 ----
 **Ming-Lun "Allen" Chou**  
